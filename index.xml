@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jul 2025 15:22:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 17 Jul 2025 15:22:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;hdkahsdlhasa&#xA;dhaklshldhjlahsdhla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Steps</title>
+      <link>http://localhost:1313/posts/first-steps/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-steps/</guid>
+      <description>&lt;h2 id=&#34;getting-started-with-bazel&#34;&gt;Getting Started with Bazel&lt;/h2&gt;&#xA;&lt;p&gt;Bazel is a simple and fast static site generator. Start by creating posts!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dare I even consider... Microsoft?</title>
+      <link>http://localhost:1313/posts/dare-i-even-consider-microsoft/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dare-i-even-consider-microsoft/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;For some reason, today, I have been pondering a return to Microsoft Products. I mean, I’ve been running Windows for some time now. I’m not sure if that is going to end anytime soon for that matter. Things like Linux have lost their luster for me. I like Apple devices, but I think Macs are a rip off. Microsoft/Windows is like that “jack of all trades”.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been paying for Office365 for years and don’t even use OneDrive, mainly because it’s a Microsoft Product; Instead I jump around from pCloud, Mega, Proton Drive, and various others. None that I am completely happy with in the end. At least OneDrive is seamless with my OS, and if I use it, Windows will stop nagging me to. It’s pretty much cross-platform also.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI spares bugs life!</title>
+      <link>http://localhost:1313/posts/ai-spares-bugs-life/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-spares-bugs-life/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;So, I don’t use ChatGPT for anything serious these days, but today I discovered this guy crawling on one my dog Hazel’s prize turds.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://timapple.pika.page/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE1NjUsInB1ciI6ImJsb2JfaWQifX0=--6810b00095156714ae303416f0e4c60903c07cb6/476074094_599733369623553_2141045881595532345_n.jpg&#34; alt=&#34;An image with filename: 476074094_599733369623553_2141045881595532345_n.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I uploaded the picture into Copilot, and it initially said an Assassin bug. So then I started searching and found nothing matching. So then I searched Assassin bug larvae and bingo it showed up.&lt;/p&gt;&#xA;&lt;p&gt;Come to find out, with further questions to ChatGPT it was a Wheel Bug larvae, and they are cold killers of other pesty insects and invasive species. They are said to have a very painful bite, but are non-aggressive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Germany and Cowboys</title>
+      <link>http://localhost:1313/posts/germany-and-cowboys/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/germany-and-cowboys/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Chris Ledoux came on my radio while I was driving this morning and of all things it brought me back to Germany. Germany you may say, hell Chris Ledoux is a person most likely many that would read this have not heard of. Nonetheless, Chris Ledoux and Germany do have a link in my lifetime.&lt;/p&gt;&#xA;&lt;p&gt;It was around 2001 not long after September 11th. I was currently serving in the Illinois National Guard and trying to get back on active duty. To our surprise, while everyone else was going to Afghanistan, we were sent to Germany. Basically to reinforce the European bases since the units on them were the ones sent to Afghanistan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My new social media plan...</title>
+      <link>http://localhost:1313/posts/my-new-social-media-plan/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-new-social-media-plan/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Building off my last &lt;a href=&#34;https://timapple.com/posts/doh&#34;&gt;post&lt;/a&gt;, I’ve been thinking more and more about the social media madness, and with a little inspiration from &lt;a href=&#34;https://kevquirk.com/notes/20250202-1708&#34;&gt;Kevin Quirk&lt;/a&gt;, I’m going to try something new.&lt;/p&gt;&#xA;&lt;p&gt;I will be the first to say I’m weak and pathetic when it comes to resisting the doom scroll. Nonetheless, I am going to try to just pay attention to only notifications on all the social media places (god, there are so many). I will do my best not to doom scroll and instead rely on my RSS feed and said notifications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Doh!</title>
+      <link>http://localhost:1313/posts/doh/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/doh/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Yes, another title with no real meaning. I am seriously thinking of stopping half of my use of social media. “Half?” you may say. Yes, after getting myself in an iffy discussion today, I think my commenting days are over.&lt;/p&gt;&#xA;&lt;p&gt;That is right, I think I am going to stop replying to social media posts. I will of course reply to comments on my own posts, but I realize now that unwelcome engagement is usually bad engagement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reading Fiction vs Non-fiction</title>
+      <link>http://localhost:1313/posts/reading-fiction-vs-non-fiction/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/reading-fiction-vs-non-fiction/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;For some years now, almost every book I’ve read is non-fiction. I’ve read a ton of tech books, books on health, and some history mainly. I’m reading my first work of fiction in some time right now.&lt;/p&gt;&#xA;&lt;p&gt;I wonder if I should be reading more fiction. Furthermore, I wonder what, if any, benefit fiction may have over non-fiction? Or are they the same? It makes me wonder. When I was young, I read so many fantasy and sci-fi books. It was almost all I consumed, of course that was my peak Dungeons &amp;amp; Dragons era also.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Operating System Conundrum</title>
+      <link>http://localhost:1313/posts/the-operating-system-conundrum/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-operating-system-conundrum/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;This is a repost, I was going to separate tech stuff from regular day to day, but screw it, I’m going to slop all the stuff together.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Either way, I’m pondering the never ending OS question, yet again, in my life. I’m currently running Windows due to a requirement for a SANS course I’m taking, but I long to throw Linux back on my machine. At the same time, I have a slight craving to delve into the Mac world, though the pricing consistently keeps me away. And I do the same with phones, mind you, I have both an Android and iPhone I hop back and forth between.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The great social flush!</title>
+      <link>http://localhost:1313/posts/the-great-social-flush/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-great-social-flush/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I’ve come to the conclusion I follow way too many sites, people, or products on social media. I find myself scrolling the different sites and rarely stopping, mainly because I am uninterested. And I’m on a few networks, Nostr, Threads, Mastodon, BlueSky, and Facebook.&lt;/p&gt;&#xA;&lt;p&gt;If I’m not stopping a lot, it because I am uninterested, or it’s repetitive, at least that’s my assumption. On almost all but Facebook, which I will explain later, I initially followed a lot of accounts I thought would be interesting, so there would be something in the feed initially. This has backfired for what I consider one major reason, I misjudged my own interests.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transitioning from Proton Mail</title>
+      <link>http://localhost:1313/posts/transitioning-from-proton-mail/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/transitioning-from-proton-mail/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I’ve used &lt;a href=&#34;https://proton.me&#34;&gt;Proton&lt;/a&gt; Mail on and off for a few years now. The premium package is pretty handy and comes with a bunch of extra services, there is no doubt it is worth the money if that is what you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;I’ve also been a &lt;a href=&#34;https://hey.com&#34;&gt;“Hey!”&lt;/a&gt; customer for some time, and had sort of split my personal and internet persona between the two. As time goes on, I find this unnecessary, since my internet persona is me and not some secret alt. And though I will lose a bunch of bells and whistles leaving Proton, I just like “Hey!” much better functionally. It’s just a fun way to deal with email. It’s just a fun way to deal with email.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Full circle, we’re moving</title>
+      <link>http://localhost:1313/posts/full-circle-were-moving/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/full-circle-were-moving/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;So back in 2019 at peak covid our family moved from Dallas Texas to Staten Island, New York, where we stayed three years. I’m not the biggest fan of NYC, but it was a pleasant stint in the Big Apple. From there we moved to Huntington, West Virginia. This was one of the most beautiful places I have ever lived. Unfortunately, it doesn’t offer much beyond its looks, and we lasted there for six months. I still miss the place a little.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Afterlife ⭐⭐⭐⭐⭐</title>
+      <link>http://localhost:1313/posts/afterlife/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/afterlife/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I just finished the series &lt;a href=&#34;https://www.netflix.com/us/title/80998491?s=a%02trkid=13747225%02t=more%02vlang=en%002clip=81516682&#34;&gt;Afterlife&lt;/a&gt; about a widower who is having trouble getting beyond the loss of his wife. It has to be one of the greatest love stories I have ever watched, even with the ridiculous amount of foul language it contains. It’s funny how Ricky Gervais can offend yet still break my heart. I just found it to be such a moving little series that it is definitely worth the watch. But I’m sad it is over. I really recommend it. If you’re offended by foul language, you may want to avoid it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ambassador to Humanity</title>
+      <link>http://localhost:1313/posts/ambassador-to-humanity/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ambassador-to-humanity/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;For those of you who are curious about other faiths or religions, I wanted to share a nine-episode podcast series I recently finished called &lt;a href=&#34;https://bahaiteachings.org/podcasts/ambassador-to-humanity/&#34;&gt;&lt;em&gt;Ambassador to Humanity&lt;/em&gt;&lt;/a&gt;. It’s available on Spotify, Apple, and most other popular podcatchers. It recounts the life and work of Abdu’l-Baha, the son of Baha’u’llah, the founder of the &lt;a href=&#34;https://bahai.org&#34;&gt;Baha’i Faith&lt;/a&gt;, and the authorized interpreter of His teachings.&lt;/p&gt;&#xA;&lt;p&gt;He was loved by Muslims, Jews, Christians, and many more. He lived a life of service to humanity. As I sat and listened to each episode, each one made me cry to myself silently as I would think what it would be like to have been in his presence, or if I could live up to his example, and very much reminded me that I haven’t. I really cannot express the amount of love I felt just from stories of people who had encountered Him.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
