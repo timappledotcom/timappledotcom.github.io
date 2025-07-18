@@ -1,110 +1,299 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Tim&#39;s Sandbox</title>
+    <link>https://blog.timapple.com/</link>
+    <description>Recent content on Tim&#39;s Sandbox</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jul 2025 15:22:29 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jul 2025 08:25:02 -0500</lastBuildDate>
+    <atom:link href="https://blog.timapple.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 17 Jul 2025 15:22:29 -0500</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;hdkahsdlhasa&#xA;dhaklshldhjlahsdhla&lt;/p&gt;</description>
+      <title>How I Tried to Outbuild Hugo (And Why I Came Crawling Backo</title>
+      <link>https://blog.timapple.com/posts/how-i-tried-to-recreate-hugo/</link>
+      <pubDate>Fri, 18 Jul 2025 08:25:02 -0500</pubDate>
+      <guid>https://blog.timapple.com/posts/how-i-tried-to-recreate-hugo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Subtitle: A tale of Ruby, Go, broken builds, and finally just making a Hugo theme like a sane person.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Like many developers, I’ve had the thought:&lt;br&gt;&#xA;&lt;strong&gt;&amp;ldquo;I could build a better static site generator.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;And like many developers, I was wrong.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chapter-1-the-ruby-rumble&#34;&gt;Chapter 1: The Ruby Rumble&lt;/h2&gt;&#xA;&lt;p&gt;It all started with &lt;a href=&#34;https://github.com/timappledotcom/siru&#34;&gt;&lt;strong&gt;Siru&lt;/strong&gt;&lt;/a&gt;, my minimalist static site engine written in Ruby. I wanted something clean, fast, and dependency-light. Instead, I got:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A gemfile from the underworld&lt;/li&gt;&#xA;&lt;li&gt;Native extension errors that only appeared on Tuesdays&lt;/li&gt;&#xA;&lt;li&gt;Ruby version mismatches that made me question reality&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I spent more time debugging &lt;code&gt;bundle install&lt;/code&gt; than actually writing content. It was like trying to build a treehouse with IKEA instructions written in Klingon.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>First Steps</title>
-      <link>http://localhost:1313/posts/first-steps/</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-steps/</guid>
-      <description>&lt;h2 id=&#34;getting-started-with-bazel&#34;&gt;Getting Started with Bazel&lt;/h2&gt;&#xA;&lt;p&gt;Bazel is a simple and fast static site generator. Start by creating posts!&lt;/p&gt;</description>
+      <title>At a happy point - Siru</title>
+      <link>https://blog.timapple.com/posts/at-a-happy-point/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/at-a-happy-point/</guid>
+      <description>&lt;p&gt;For the past six hours or so, &lt;a href=&#34;https://warp.dev&#34;&gt;Warp&lt;/a&gt; Terminal and I have been building Siru which I mentioned in the first post on here. I think I am at a semi happy place where I can take a break from it for now. I think the blog looks ok and has all the basic features I would need. It&amp;rsquo;s definitly not complete, but at the same time its good enough.&lt;/p&gt;&#xA;&lt;p&gt;I still want to change some things. I am thinking of just listing posts by title and date with no summary on the front page. Maybe seperating sections by month or year, maybe both to keep track of how everything goes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome, and hey Siru!</title>
+      <link>https://blog.timapple.com/posts/welcome-and-hey-siru/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/welcome-and-hey-siru/</guid>
+      <description>&lt;p&gt;Today I woke up thinking I need my own thing for blogging. I was going to use Hugo, which is great, but I wanted my own thing. I&amp;rsquo;ve always wanted full control of my blog platform or tools.&lt;/p&gt;&#xA;&lt;p&gt;So, Hello Siru, well thats the name for now. I vibe coded my way through making a Ruby static site generator and this is the result. Still a work in progress, but it&amp;rsquo;s been fun. You can visit the Siru repo &lt;a href=&#34;https://github.com/timappledotcom/siru&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vibe coding</title>
+      <link>https://blog.timapple.com/posts/vibe-coding/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/vibe-coding/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I learned a new term the other day, vibe coding.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Vibe coding (or vibecoding)&lt;/em&gt; is an approach to producing software by using &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34;&gt;artificial intelligence&lt;/a&gt; (AI), where a person describes a problem in a few sentences as a &lt;a href=&#34;https://en.wikipedia.org/wiki/Prompt_engineering&#34;&gt;prompt&lt;/a&gt; to a &lt;a href=&#34;https://en.wikipedia.org/wiki/Large_language_model&#34;&gt;large language model&lt;/a&gt; (LLM) tuned for coding.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is right up my alley. I’ve started and stopped learning multiple programming languages throughout my nerd history, and have never been able to maintain the concentration to stick to one. Like hoping Linux distros, I hear news about language ‘B’ and I suddenly drop language ‘A’ to learn about it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dare I even consider... Microsoft?</title>
-      <link>http://localhost:1313/posts/dare-i-even-consider-microsoft/</link>
+      <link>https://blog.timapple.com/posts/dare-i-even-consider-microsoft/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dare-i-even-consider-microsoft/</guid>
+      <guid>https://blog.timapple.com/posts/dare-i-even-consider-microsoft/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;For some reason, today, I have been pondering a return to Microsoft Products. I mean, I’ve been running Windows for some time now. I’m not sure if that is going to end anytime soon for that matter. Things like Linux have lost their luster for me. I like Apple devices, but I think Macs are a rip off. Microsoft/Windows is like that “jack of all trades”.&lt;/p&gt;&#xA;&lt;p&gt;I’ve been paying for Office365 for years and don’t even use OneDrive, mainly because it’s a Microsoft Product; Instead I jump around from pCloud, Mega, Proton Drive, and various others. None that I am completely happy with in the end. At least OneDrive is seamless with my OS, and if I use it, Windows will stop nagging me to. It’s pretty much cross-platform also.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI spares bugs life!</title>
-      <link>http://localhost:1313/posts/ai-spares-bugs-life/</link>
+      <link>https://blog.timapple.com/posts/ai-spares-bugs-life/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai-spares-bugs-life/</guid>
+      <guid>https://blog.timapple.com/posts/ai-spares-bugs-life/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;So, I don’t use ChatGPT for anything serious these days, but today I discovered this guy crawling on one my dog Hazel’s prize turds.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://timapple.pika.page/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDE1NjUsInB1ciI6ImJsb2JfaWQifX0=--6810b00095156714ae303416f0e4c60903c07cb6/476074094_599733369623553_2141045881595532345_n.jpg&#34; alt=&#34;An image with filename: 476074094_599733369623553_2141045881595532345_n.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I uploaded the picture into Copilot, and it initially said an Assassin bug. So then I started searching and found nothing matching. So then I searched Assassin bug larvae and bingo it showed up.&lt;/p&gt;&#xA;&lt;p&gt;Come to find out, with further questions to ChatGPT it was a Wheel Bug larvae, and they are cold killers of other pesty insects and invasive species. They are said to have a very painful bite, but are non-aggressive.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Germany and Cowboys</title>
-      <link>http://localhost:1313/posts/germany-and-cowboys/</link>
+      <link>https://blog.timapple.com/posts/germany-and-cowboys/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/germany-and-cowboys/</guid>
+      <guid>https://blog.timapple.com/posts/germany-and-cowboys/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Chris Ledoux came on my radio while I was driving this morning and of all things it brought me back to Germany. Germany you may say, hell Chris Ledoux is a person most likely many that would read this have not heard of. Nonetheless, Chris Ledoux and Germany do have a link in my lifetime.&lt;/p&gt;&#xA;&lt;p&gt;It was around 2001 not long after September 11th. I was currently serving in the Illinois National Guard and trying to get back on active duty. To our surprise, while everyone else was going to Afghanistan, we were sent to Germany. Basically to reinforce the European bases since the units on them were the ones sent to Afghanistan.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My new social media plan...</title>
-      <link>http://localhost:1313/posts/my-new-social-media-plan/</link>
+      <link>https://blog.timapple.com/posts/my-new-social-media-plan/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-new-social-media-plan/</guid>
+      <guid>https://blog.timapple.com/posts/my-new-social-media-plan/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Building off my last &lt;a href=&#34;https://timapple.com/posts/doh&#34;&gt;post&lt;/a&gt;, I’ve been thinking more and more about the social media madness, and with a little inspiration from &lt;a href=&#34;https://kevquirk.com/notes/20250202-1708&#34;&gt;Kevin Quirk&lt;/a&gt;, I’m going to try something new.&lt;/p&gt;&#xA;&lt;p&gt;I will be the first to say I’m weak and pathetic when it comes to resisting the doom scroll. Nonetheless, I am going to try to just pay attention to only notifications on all the social media places (god, there are so many). I will do my best not to doom scroll and instead rely on my RSS feed and said notifications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Doh!</title>
-      <link>http://localhost:1313/posts/doh/</link>
+      <link>https://blog.timapple.com/posts/doh/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/doh/</guid>
+      <guid>https://blog.timapple.com/posts/doh/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;Yes, another title with no real meaning. I am seriously thinking of stopping half of my use of social media. “Half?” you may say. Yes, after getting myself in an iffy discussion today, I think my commenting days are over.&lt;/p&gt;&#xA;&lt;p&gt;That is right, I think I am going to stop replying to social media posts. I will of course reply to comments on my own posts, but I realize now that unwelcome engagement is usually bad engagement.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reply by email instead...</title>
+      <link>https://blog.timapple.com/posts/reply-by-email-instead/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/reply-by-email-instead/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Since I set up this blog on Pika I created a contact page, this one &lt;a href=&#34;https://timapple.com/pages/contact&#34;&gt;here&lt;/a&gt;, which I really am starting to love. When I blogged directly from MicroBlog there was a plugin for “reply by email” also. But I’ve gotten much more action since I’ve been on Pika. The point being though, I am really loving the interactions that are starting to take place.&lt;/p&gt;&#xA;&lt;p&gt;The idea of starting a conversation over email, inspired by a blog post is wonderful! I am finding myself trying to reply to anyone who has this as an option instead of replying to maybe the social post where I intially saw it. I find the interaction much more enjoyable, and keeping the conversation semi private is nice also.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Audiobooks to replace podcasts</title>
+      <link>https://blog.timapple.com/posts/audiobooks-to-replace-podcasts/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/audiobooks-to-replace-podcasts/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Last week, I was thinking about balancing &lt;a href=&#34;https://timapple.com/posts/music-vs-podcasts&#34;&gt;music listening and podcasts&lt;/a&gt;. I cut the list of the podcasts I listen to from around thirty to thirteen. It was a podcast massacre for sure. Now just three days later I am having other concerns.&lt;/p&gt;&#xA;&lt;p&gt;The thing is, I feel a little lost without all those podcasts, mostly full of information that had no real relevance to my life. I just wanted to hear the spoken word, but my list was cut so short I actually run out of stuff to listen to very fast. I was really itching to add some subscriptions to my player, like really fiending bad. But I had a better idea.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The “video gaming is good for you” argument.</title>
+      <link>https://blog.timapple.com/posts/the-video-gaming-is-good-for-you-argument/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/the-video-gaming-is-good-for-you-argument/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Let me first address the actual fact that though I am not a “Gamer”, I do play video games from time to time and have even lost a few months of my life to World of Warcraft more than once. But this morning I had an encounter with a friendly fella on Bluesky that went on a short tangent about video games being good or bad, health benefits, and the like.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Reading Fiction vs Non-fiction</title>
-      <link>http://localhost:1313/posts/reading-fiction-vs-non-fiction/</link>
+      <link>https://blog.timapple.com/posts/reading-fiction-vs-non-fiction/</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/reading-fiction-vs-non-fiction/</guid>
+      <guid>https://blog.timapple.com/posts/reading-fiction-vs-non-fiction/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;For some years now, almost every book I’ve read is non-fiction. I’ve read a ton of tech books, books on health, and some history mainly. I’m reading my first work of fiction in some time right now.&lt;/p&gt;&#xA;&lt;p&gt;I wonder if I should be reading more fiction. Furthermore, I wonder what, if any, benefit fiction may have over non-fiction? Or are they the same? It makes me wonder. When I was young, I read so many fantasy and sci-fi books. It was almost all I consumed, of course that was my peak Dungeons &amp;amp; Dragons era also.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Operating System Conundrum</title>
-      <link>http://localhost:1313/posts/the-operating-system-conundrum/</link>
+      <link>https://blog.timapple.com/posts/the-operating-system-conundrum/</link>
       <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-operating-system-conundrum/</guid>
+      <guid>https://blog.timapple.com/posts/the-operating-system-conundrum/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;This is a repost, I was going to separate tech stuff from regular day to day, but screw it, I’m going to slop all the stuff together.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Either way, I’m pondering the never ending OS question, yet again, in my life. I’m currently running Windows due to a requirement for a SANS course I’m taking, but I long to throw Linux back on my machine. At the same time, I have a slight craving to delve into the Mac world, though the pricing consistently keeps me away. And I do the same with phones, mind you, I have both an Android and iPhone I hop back and forth between.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The great social flush!</title>
-      <link>http://localhost:1313/posts/the-great-social-flush/</link>
+      <link>https://blog.timapple.com/posts/the-great-social-flush/</link>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-great-social-flush/</guid>
+      <guid>https://blog.timapple.com/posts/the-great-social-flush/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I’ve come to the conclusion I follow way too many sites, people, or products on social media. I find myself scrolling the different sites and rarely stopping, mainly because I am uninterested. And I’m on a few networks, Nostr, Threads, Mastodon, BlueSky, and Facebook.&lt;/p&gt;&#xA;&lt;p&gt;If I’m not stopping a lot, it because I am uninterested, or it’s repetitive, at least that’s my assumption. On almost all but Facebook, which I will explain later, I initially followed a lot of accounts I thought would be interesting, so there would be something in the feed initially. This has backfired for what I consider one major reason, I misjudged my own interests.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transitioning from Proton Mail</title>
-      <link>http://localhost:1313/posts/transitioning-from-proton-mail/</link>
+      <link>https://blog.timapple.com/posts/transitioning-from-proton-mail/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/transitioning-from-proton-mail/</guid>
+      <guid>https://blog.timapple.com/posts/transitioning-from-proton-mail/</guid>
       <description>&lt;hr&gt;&#xA;&lt;p&gt;I’ve used &lt;a href=&#34;https://proton.me&#34;&gt;Proton&lt;/a&gt; Mail on and off for a few years now. The premium package is pretty handy and comes with a bunch of extra services, there is no doubt it is worth the money if that is what you&amp;rsquo;re looking for.&lt;/p&gt;&#xA;&lt;p&gt;I’ve also been a &lt;a href=&#34;https://hey.com&#34;&gt;“Hey!”&lt;/a&gt; customer for some time, and had sort of split my personal and internet persona between the two. As time goes on, I find this unnecessary, since my internet persona is me and not some secret alt. And though I will lose a bunch of bells and whistles leaving Proton, I just like “Hey!” much better functionally. It’s just a fun way to deal with email. It’s just a fun way to deal with email.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Full circle, we’re moving</title>
-      <link>http://localhost:1313/posts/full-circle-were-moving/</link>
-      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/full-circle-were-moving/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;So back in 2019 at peak covid our family moved from Dallas Texas to Staten Island, New York, where we stayed three years. I’m not the biggest fan of NYC, but it was a pleasant stint in the Big Apple. From there we moved to Huntington, West Virginia. This was one of the most beautiful places I have ever lived. Unfortunately, it doesn’t offer much beyond its looks, and we lasted there for six months. I still miss the place a little.&lt;/p&gt;</description>
+      <title>Hello 2025</title>
+      <link>https://blog.timapple.com/posts/hello-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/hello-2025/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Well, it’s here, 2025. It seems like Y2K was just yesterday and we all the world was going to end, wasn’t that a laugh. To be honest, I don’t have much planned for 2025. We just moved to Texas, and hopefully we are done with moving for some time.&lt;/p&gt;&#xA;&lt;p&gt;Career, work, or just being productive wise, I have two more SANS certs to complete in the next five months. Hopefully I will be back in the gainfully employed world not long after that.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Afterlife ⭐⭐⭐⭐⭐</title>
-      <link>http://localhost:1313/posts/afterlife/</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/afterlife/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;I just finished the series &lt;a href=&#34;https://www.netflix.com/us/title/80998491?s=a%02trkid=13747225%02t=more%02vlang=en%002clip=81516682&#34;&gt;Afterlife&lt;/a&gt; about a widower who is having trouble getting beyond the loss of his wife. It has to be one of the greatest love stories I have ever watched, even with the ridiculous amount of foul language it contains. It’s funny how Ricky Gervais can offend yet still break my heart. I just found it to be such a moving little series that it is definitely worth the watch. But I’m sad it is over. I really recommend it. If you’re offended by foul language, you may want to avoid it.&lt;/p&gt;</description>
+      <title>Trying out Pika</title>
+      <link>https://blog.timapple.com/posts/trying-out-pika/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/trying-out-pika/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;And the trial of new blogging products continues. I recently just heard of Pika and figured I would give it a peek. It seems to hold to the original ideals of &lt;a href=&#34;https://ghost.io&#34;&gt;Ghost&lt;/a&gt; when it first came out. Just a simple place to write and post from.&lt;/p&gt;&#xA;&lt;p&gt;Playing around with the interface so far, I like it. It’s simple and clean. I will have to play around with it a lot more to see if it truly fits my needs. I was going to use ghost, but in all reality it’s pretty expensive, and I’m not going to be having a ton of people paying to read what I write, so why bother.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ambassador to Humanity</title>
-      <link>http://localhost:1313/posts/ambassador-to-humanity/</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ambassador-to-humanity/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;For those of you who are curious about other faiths or religions, I wanted to share a nine-episode podcast series I recently finished called &lt;a href=&#34;https://bahaiteachings.org/podcasts/ambassador-to-humanity/&#34;&gt;&lt;em&gt;Ambassador to Humanity&lt;/em&gt;&lt;/a&gt;. It’s available on Spotify, Apple, and most other popular podcatchers. It recounts the life and work of Abdu’l-Baha, the son of Baha’u’llah, the founder of the &lt;a href=&#34;https://bahai.org&#34;&gt;Baha’i Faith&lt;/a&gt;, and the authorized interpreter of His teachings.&lt;/p&gt;&#xA;&lt;p&gt;He was loved by Muslims, Jews, Christians, and many more. He lived a life of service to humanity. As I sat and listened to each episode, each one made me cry to myself silently as I would think what it would be like to have been in his presence, or if I could live up to his example, and very much reminded me that I haven’t. I really cannot express the amount of love I felt just from stories of people who had encountered Him.&lt;/p&gt;</description>
+      <title>Pin Dartpad for easy access</title>
+      <link>https://blog.timapple.com/posts/pin-dartpad-for-easy-access/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/pin-dartpad-for-easy-access/</guid>
+      <description>&lt;p&gt;I made a quick video showing how I pin Dartpad to make it easier to use.&#xA;It was short enough to just make a quick video. I hope some of you find&#xA;it useful.&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Freelancing and your email?</title>
+      <link>https://blog.timapple.com/posts/freelancing-and-your-email/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/freelancing-and-your-email/</guid>
+      <description>&lt;p&gt;I was wondering what freelance and self employed devs do for email. Do&#xA;you use a free service still like Gmail? Or do you host it with Office&#xA;365, Google Workspaces, or maybe something else. I was just curious to&#xA;what seems to be the most common practice?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>100 Days of Code Check Sheet</title>
+      <link>https://blog.timapple.com/posts/100-days-of-code-check-sheet/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/100-days-of-code-check-sheet/</guid>
+      <description>&lt;p&gt;I wanted to have a check sheet to hang on my wall to keep me accountable&#xA;for coding. I saw some themed ones for Python and Web but wanted&#xA;something more generic. So I just made one myself. I thought I would&#xA;share it for those who would like to print one themselves.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://filedn.com/lL11wbUNQPPbbXWoSESOj98/Blog%20Posts/2020%20Posts/100%20Days%20Check/100_Days_Check.pdf&#34;&gt;Hundred Days Of Code Check&#xA;Sheet&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cheers!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The State of Operating Systems (Controversial I&#39;m Sure)</title>
+      <link>https://blog.timapple.com/posts/the-state-of-operating-systems-controversial-i-m-sure/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/the-state-of-operating-systems-controversial-i-m-sure/</guid>
+      <description>&lt;h2 id=&#34;historically-historically&#34;&gt;&lt;a href=&#34;#historically&#34;&gt;&lt;/a&gt;{#historically} Historically&lt;/h2&gt;&#xA;&lt;p&gt;So I&amp;rsquo;ve been around for awhile now, at least a few decades of&#xA;adulthood. Most of that time I was a die hard Linux user. I had stints&#xA;of using Windows, especially back in the &amp;ldquo;World of Warcraft&amp;rdquo; days. But&#xA;most of my early years I was setting up PPP connections to my isp in&#xA;Slackware. My opinions on operating systems has changed drastically now&#xA;and I thought I would jot down what I am thinking about the topic at&#xA;this time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setup Javascript Dev on ChromeOS</title>
+      <link>https://blog.timapple.com/posts/setup-javascript-dev-on-chromeos/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/setup-javascript-dev-on-chromeos/</guid>
+      <description>&lt;p&gt;I recently bought myself a Pixelbook Go so I could play with ChromeOS&#xA;and I was pleasantly surprised at how great it actually was. This made&#xA;me want to do some development on it. The set up was pretty easy and I&#xA;thought I would share it here.&lt;/p&gt;&#xA;&lt;p&gt;The Chromebook is an actual Linux machine running Gentoo, but we still&#xA;have to install a Linux VM to get access to Linux. Luckily they make&#xA;this ridiculously simple on ChromeOS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rustacean does Javascript</title>
+      <link>https://blog.timapple.com/posts/rustacean-does-javascript/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/rustacean-does-javascript/</guid>
+      <description>&lt;p&gt;To be honest I am not the most stable person when it comes to what&#xA;software and tools I use. I tend to be a bit emotional and biased on my&#xA;choices. As of late I have changed up my Javascript environment to be a&#xA;bit more Rusty. It&amp;rsquo;s a language that facinates me and I have become&#xA;quite the fanboy of it. So since I mainly do web development, I like to&#xA;keep rust as close as I can. So I have made some changes to how I work&#xA;which makes things much more Rusty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Install Rbenv and Ruby on elementary os, quick and dirty.</title>
+      <link>https://blog.timapple.com/posts/install-rbenv-and-ruby-on-elementary-os-quick-and-dirty/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/install-rbenv-and-ruby-on-elementary-os-quick-and-dirty/</guid>
+      <description>&lt;p&gt;I couldn&amp;rsquo;t find a solid set of instructions on how to do this so I&#xA;decided to write it up quick. I did find a lot of tutorials for Ubuntu,&#xA;but they seemed to encounter errors on &lt;a href=&#34;https://elementary.io&#34;&gt;elementary&#xA;OS&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This is basically a lot of copy paste. I&amp;rsquo;ve gone through all the steps&#xA;on elementary and it works like a charm.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;code&gt;cd&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;git clone https://github.com/rbenv/rbenv.git ~/.rbenv&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Open your .bashrc with nano &lt;code&gt;nano .bashrc&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;make sure you type or past the following lines into the bottom of&#xA;your .bashrc&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;esac&#xA;# rbenv&#xA;export PATH=&amp;#34;$HOME/.rbenv/bin:$PATH&amp;#34;&#xA;eval &amp;#34;$(rbenv init -)&amp;#34;&#xA;export PATH=&amp;#34;$HOME/.rbenv/plugins/ruby-build/bin:$PATH&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img src=&#34;data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaGlnaGxpZ2h0LWFjdGlvbiBjcmF5b25zLWljb24gaGlnaGxpZ2h0LWFjdGlvbi0tZnVsbHNjcmVlbi1vbiIgaGVpZ2h0PSIyMHB4IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMHB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5FbnRlciBmdWxsc2NyZWVuIG1vZGU8L3RpdGxlPgo8cGF0aCBkPSJNMTYgM2g2djZoLTJWNWgtNFYzek0yIDNoNnYySDR2NEgyVjN6bTE4IDE2di00aDJ2NmgtNnYtMmg0ek00IDE5aDR2Mkgydi02aDJ2NHoiIC8+Cjwvc3ZnPg==&#34; alt=&#34;&#34;&gt;{.highlight-action&#xA;.crayons-icon .highlight-action&amp;ndash;fullscreen-on}&#xA;&lt;img src=&#34;data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaGlnaGxpZ2h0LWFjdGlvbiBjcmF5b25zLWljb24gaGlnaGxpZ2h0LWFjdGlvbi0tZnVsbHNjcmVlbi1vZmYiIGhlaWdodD0iMjBweCIgdmlld2JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+RXhpdCBmdWxsc2NyZWVuIG1vZGU8L3RpdGxlPgo8cGF0aCBkPSJNMTggN2g0djJoLTZWM2gydjR6TTggOUgyVjdoNFYzaDJ2NnptMTAgOHY0aC0ydi02aDZ2MmgtNHpNOCAxNXY2SDZ2LTRIMnYtMmg2eiIgLz4KPC9zdmc+&#34; alt=&#34;&#34;&gt;{.highlight-action&#xA;.crayons-icon .highlight-action&amp;ndash;fullscreen-off}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux commands that work in Powershell by default.</title>
+      <link>https://blog.timapple.com/posts/linux-commands-that-work-in-powershell-by-default/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/linux-commands-that-work-in-powershell-by-default/</guid>
+      <description>&lt;p&gt;Some people may not realize there are a lot of Linux commands that work&#xA;within PowerShell. I thought I would list some of them for people to&#xA;try. In the future I will do a write up on each one individually. For&#xA;now, let&amp;rsquo;s just get familiar with them.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cat - Lists contents of files to the terminal window.&lt;/li&gt;&#xA;&lt;li&gt;cd - Change directory&lt;/li&gt;&#xA;&lt;li&gt;clear - Clear the terminal window.&lt;/li&gt;&#xA;&lt;li&gt;cp - Copy file&lt;/li&gt;&#xA;&lt;li&gt;curl - Retrieves information and files from URLs or internet&#xA;addresses.&lt;/li&gt;&#xA;&lt;li&gt;date - Shows current date&lt;/li&gt;&#xA;&lt;li&gt;diff - Compares two text files and shows differences between them.&lt;/li&gt;&#xA;&lt;li&gt;echo - Prints a string of text in the terminal window.&lt;/li&gt;&#xA;&lt;li&gt;exit - Exit your current shell.&lt;/li&gt;&#xA;&lt;li&gt;finger - Shows information on user.&lt;/li&gt;&#xA;&lt;li&gt;find - Search for files.&lt;/li&gt;&#xA;&lt;li&gt;history - Brief list of the last few commands you have used.&lt;/li&gt;&#xA;&lt;li&gt;kill - Kill a running process.&lt;/li&gt;&#xA;&lt;li&gt;ls - List the files and folders in the current directory.&lt;/li&gt;&#xA;&lt;li&gt;man - Show man pages.&lt;/li&gt;&#xA;&lt;li&gt;mkdir - Create a directory&lt;/li&gt;&#xA;&lt;li&gt;mv - Move a file or directory.&lt;/li&gt;&#xA;&lt;li&gt;ping - Tool to help verify network connectivity.&lt;/li&gt;&#xA;&lt;li&gt;ps - List running processes.&lt;/li&gt;&#xA;&lt;li&gt;pwd - Prints current working directory to the terminal.&lt;/li&gt;&#xA;&lt;li&gt;rm - Remove a file.&lt;/li&gt;&#xA;&lt;li&gt;rmdir - Remove a directory.&lt;/li&gt;&#xA;&lt;li&gt;ssh - Connect to a remote computer.&lt;/li&gt;&#xA;&lt;li&gt;tar - Create archives.&lt;/li&gt;&#xA;&lt;li&gt;wget - Downloads files served with HTTP, HTTPS, or FTP over a&#xA;network.&lt;/li&gt;&#xA;&lt;li&gt;whoami - Find out who you are logged in as.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Please play around with these in your terminal. Let me know if there are&#xA;any I may have missed and I can add them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Things I found most exciting today for Microsoft Build 2020</title>
+      <link>https://blog.timapple.com/posts/things-i-found-most-exciting-today-for-microsoft-build-2020/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/things-i-found-most-exciting-today-for-microsoft-build-2020/</guid>
+      <description>&lt;p&gt;I did my best to participate in &lt;a href=&#34;https://mybuild.microsoft.com/home?t=%257B%2522from%2522%253A%25222020-05-19T08%253A30%253A00-05%253A00%2522%252C%2522to%2522%253A%25222020-05-21T19%253A00%253A00-05%253A00%2522%257D&#34;&gt;Microsoft&#xA;Build&lt;/a&gt;&#xA;today. It was rough trying to work and pay attention. But I picked up on&#xA;a few really cool things.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://devblogs.microsoft.com/commandline/windows-terminal-1-0/&#34;&gt;Windows&#xA;Terminal&lt;/a&gt;&#xA;version 1 has been released. With a bunch of improvements.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/p/windows-terminal-preview/9n8g5rfz9xk3?rtc=1&amp;amp;activetab=pivot:overviewtab&#34;&gt;Windows Terminal Preview&#xA;release&lt;/a&gt;&#xA;was also announced to go with Microsofts more recent habit of have&#xA;insider and dev builds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/windows/terminal/?WT.mc_id=Build2020_DocsMsftTwitter_-twitter-devrel&#34;&gt;Windows Terminal Docs&#xA;Page&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt;&amp;rsquo;s paid features are free. We can have&#xA;unlimited private repos. There are some paid support features still.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/features/codespaces&#34;&gt;Demos of Github Codespace&lt;/a&gt;&#xA;were really impressive. Can&amp;rsquo;t wait to play with this one.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techcommunity.microsoft.com/t5/azure-app-service/introducing-app-service-static-web-apps/ba-p/1394451?utm_source=jeliknes&amp;amp;utm_medium=twitter&amp;amp;utm_campaign=link&amp;amp;WT.mc_id=link-twitter-jeliknes&#34;&gt;Azure&lt;/a&gt;&#xA;now has Jamstack services. Which come with a free year of service&#xA;and a $200 Azure credit when you register.&lt;/li&gt;&#xA;&lt;li&gt;Windows has it&amp;rsquo;s own in-house cli package manager&#xA;&lt;a href=&#34;https://github.com/microsoft/winget-cli&#34;&gt;winget&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;It really is an exciting bunch of stuff. Oh wait, did I mention.&amp;hellip;&#xA;WSL2 will be able to run GUI Linux apps possibly by the end of the year.&#xA;They demoed it a little. Very cool.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keeping the shiny away!</title>
+      <link>https://blog.timapple.com/posts/keeping-the-shiny-away/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/keeping-the-shiny-away/</guid>
+      <description>&lt;p&gt;Where to start? I have been learning to code for the past year on and&#xA;off. As they say life gets in the way. My main education comes from the&#xA;wonderful folks at #VetsWhoCode. The focus being front-end development&#xA;with Javascript. And I thank them so much. The reason for their choice&#xA;is getting Veterans into the market as fast as possible with real world&#xA;in demand skills. And it works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>So I made a blog.</title>
+      <link>https://blog.timapple.com/posts/so-i-made-a-blog/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/so-i-made-a-blog/</guid>
+      <description>&lt;p&gt;So, I made a blog using the &lt;a href=&#34;https://stackbit.com&#34;&gt;Stackbit&lt;/a&gt; integration&#xA;here on Dev. I chose &lt;a href=&#34;https://www.gatsbyjs.org/&#34;&gt;Gatsby&lt;/a&gt;, well because&#xA;it&amp;rsquo;s Gatsby.&lt;/p&gt;&#xA;&lt;p&gt;The main reason I am writing this post is to see if it is pushing from&#xA;here. And later I will edit this to see if an edit pushes.&lt;/p&gt;&#xA;&lt;p&gt;So, lets see how it goes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;so-this-is-the-edit-to-see-if-it-pushes-here-on-the-next-day-so-this-is-the-edit-to-see-if-it-pushes-here-on-the-next-day&#34;&gt;&lt;a href=&#34;#so-this-is-the-edit-to-see-if-it-pushes-here-on-the-next-day&#34;&gt;&lt;/a&gt;{#so-this-is-the-edit-to-see-if-it-pushes-here-on-the-next-day} So this is the edit to see if it pushes here on the next day.&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Sharing your project folder with Windows and WSL</title>
+      <link>https://blog.timapple.com/posts/sharing-your-project-folder-with-windows-and-wsl/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/sharing-your-project-folder-with-windows-and-wsl/</guid>
+      <description>&lt;p&gt;This is going to be short and sweet since it&amp;rsquo;s not that complicated.&#xA;The main goal is to operate in the same project folders whether you are&#xA;operating within WSL or Windows itself. The side bonus is it&amp;rsquo;s easier&#xA;to keep your project folder backed up.&lt;/p&gt;&#xA;&lt;p&gt;First thing, when I say project folder, what I am referring to is one&#xA;folder I call &lt;code&gt;Projects&lt;/code&gt; and I keep everything I&amp;rsquo;m working on in there.&#xA;I do a lot of stuff that doesn&amp;rsquo;t necessarily require me to be in the&#xA;Linux Subsystem all the time, but I like to always work out of one&#xA;directory whichever interface I&amp;rsquo;m in.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where is the Ruby community?</title>
+      <link>https://blog.timapple.com/posts/where-is-the-ruby-community/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/where-is-the-ruby-community/</guid>
+      <description>&lt;p&gt;Hey everyone, I&amp;rsquo;m looking for places the ruby community hangs out&#xA;whether it&amp;rsquo;s a Telegram Room, Discord, IRC, or a Forum.. Just looking&#xA;to find where a friendly community and Ruby devs are hanging out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Completely Left Linux..for realz</title>
+      <link>https://blog.timapple.com/posts/completely-left-linux-for-realz/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/completely-left-linux-for-realz/</guid>
+      <description>&lt;p&gt;Just as an update to the &lt;a href=&#34;https://dev.to/vetswhocode/why-i-m-sort-of-leaving-linux-1oh7&#34;&gt;Why I&amp;rsquo;m sort of leaving&#xA;Linux&lt;/a&gt;&#xA;post this past October.&lt;/p&gt;&#xA;&lt;p&gt;A lot of people wanted to know if I would stick with Windows or if I&#xA;would give in and return to Linux. And I still am using Windows. I did&#xA;play with Linux a little on and off still. In general though I am still&#xA;on Windows. And i&amp;rsquo;ve made the next step.&lt;/p&gt;&#xA;&lt;p&gt;What is the next step you may ask? Well I went completely in and just&#xA;purchased a &lt;a href=&#34;https://www.microsoft.com/en-us/p/surface-laptop-3/8vfggh1r94tm?activetab=overview&#34;&gt;Surface Laptop&#xA;3&lt;/a&gt;.&#xA;So there is no going back to Linux on this puppy. Well there is WSL of&#xA;course, but that is part of the point. I&amp;rsquo;m even planning on selling my&#xA;Galago Ultra Pro.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting comfortable using Google.</title>
+      <link>https://blog.timapple.com/posts/getting-comfortable-using-google/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/getting-comfortable-using-google/</guid>
+      <description>&lt;p&gt;When I say get comfortable with using Google, I do not mean actually&#xA;knowing how to use it. I am hoping you already have gotten that far.&#xA;What I am thinking of more is using it to find your solutions.&lt;/p&gt;&#xA;&lt;p&gt;I am currently in the &lt;a href=&#34;https://vetswhocode.io/&#34;&gt;Vets Who Code&lt;/a&gt; program.&#xA;And to share a little history. I dropped out of High School, spent ten&#xA;years in the Army doing one of the most non-techy jobs out there (unless&#xA;you consider the art of running a floor buffer), and then working jobs&#xA;all the way from pulling cable, electrician, tower climber, to sales.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Favorite Oh-My-Zsh theme</title>
+      <link>https://blog.timapple.com/posts/my-favorite-oh-my-zsh-theme/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/my-favorite-oh-my-zsh-theme/</guid>
+      <description>&lt;p&gt;I wanted to put this in my JS setup post, but I decided themes really&#xA;were more a personal preference and not a necessary part of the whole&#xA;scheme. But I did want to share.&lt;/p&gt;&#xA;&lt;p&gt;So my favorite &lt;a href=&#34;https://ohmyz.sh/&#34;&gt;Oh-My-Zsh&#xA;theme&lt;/a&gt;{rel=&amp;ldquo;noopener noreferrer&amp;rdquo; target=&amp;quot;_blank&amp;quot;} is&#xA;called&#xA;&lt;a href=&#34;https://github.com/oskarkrawczyk/honukai-iterm-zsh&#34;&gt;Honukai&lt;/a&gt;{rel=&amp;ldquo;noopener noreferrer&amp;rdquo;&#xA;target=&amp;quot;_blank&amp;quot;}. It is not in the default themes for OMZ so you have to&#xA;add it manually. It gives quite a bit of info.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Username&lt;/li&gt;&#xA;&lt;li&gt;Computer name&lt;/li&gt;&#xA;&lt;li&gt;Current directory name&lt;/li&gt;&#xA;&lt;li&gt;Current git branch name&lt;/li&gt;&#xA;&lt;li&gt;Current status of git (dirty / add / commit / push)&lt;/li&gt;&#xA;&lt;li&gt;Current time&lt;/li&gt;&#xA;&lt;li&gt;Fancy colors for each of above information.&lt;/li&gt;&#xA;&lt;li&gt;Always returns on a new line.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here is a look at it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quick and Dirty Ubuntu JavaScript Setup</title>
+      <link>https://blog.timapple.com/posts/quick-and-dirty-ubuntu-javascript-setup/</link>
+      <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/quick-and-dirty-ubuntu-javascript-setup/</guid>
+      <description>&lt;p&gt;So I did this for Windows and the WSL&#xA;&lt;a href=&#34;https://dev.to/vetswhocode/windows-js-dev-in-wsl-redux-33d5&#34;&gt;here&lt;/a&gt;. If&#xA;we rip everything referring to Windows out, it&amp;rsquo;s the same setup on&#xA;regular Ubuntu.&lt;/p&gt;&#xA;&lt;p&gt;So I am making a couple of assumptions. One, you have a current version&#xA;of Ubuntu installed. Let&amp;rsquo;s say 18.04 or beyond. I think it&amp;rsquo;s safe to&#xA;say it should also work on the following, as long as snapd is installed.&#xA;Just type &lt;code&gt;sudo apt install snapd&lt;/code&gt;, it will either install or tell you&#xA;it is.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Windows JS Dev in WSL Redux</title>
+      <link>https://blog.timapple.com/posts/windows-js-dev-in-wsl-redux/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/windows-js-dev-in-wsl-redux/</guid>
+      <description>&lt;p&gt;Back in September I did a post on setting up a JS dev environment in&#xA;Windows using WSL (Windows Subsystem for Linux). Quite a bit has changed&#xA;in the past couple months so I think we need to revisit and streamline&#xA;it a bit. You can now get WSL2 in the Slow ring for insiders and a lot&#xA;has changed in Microsofts new Terminal app.&lt;/p&gt;&#xA;&lt;p&gt;So to start, we need to be Windows Insiders for this. You could skip the&#xA;whole insider thing and use WSL v1, but your going to have a pretty big&#xA;performance hit and things won&amp;rsquo;t work just right.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I&#39;m sort of leaving Linux</title>
+      <link>https://blog.timapple.com/posts/why-i-m-sort-of-leaving-linux/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/why-i-m-sort-of-leaving-linux/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been a pretty heavy Linux user for over 15 years now. I have all&#xA;the badges, Gentoo installs, Arch install, I have compiled my own&#xA;kernel, used Debian, Redhat before Fedora existed, Slackware, SUSE, all&#xA;the buntus, and on and on. I&amp;rsquo;ve participated directly with Fedora,&#xA;Ubuntu-Mate and &lt;a href=&#34;https://www.archlabslinux.com&#34;&gt;Archlabs Linux&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;What I&amp;rsquo;m saying is, I&amp;rsquo;ve been around.And I love Linux. I enjoy&#xA;installing distros. Tweaking config files is my game. And the keyboard,&#xA;oh! give me some &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt; and I can kiss the mouse&#xA;goodbye. I love almost everything about Linux. So why would I leave?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JavaScript Ternary Operator</title>
+      <link>https://blog.timapple.com/posts/javascript-ternary-operator/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/javascript-ternary-operator/</guid>
+      <description>&lt;p&gt;In my learning of &amp;lsquo;Control Flow&amp;rsquo; in JavaScript I ran into the Ternary&#xA;Operator (or Condtional Operator). I find these to be just to cool not&#xA;to write a little about them.&lt;/p&gt;&#xA;&lt;p&gt;The Ternary Operator is a real short way to choose between two things&#xA;instead of using &lt;code&gt;if/else&lt;/code&gt;. They a basically structured as:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;condition ? if true : if false;&lt;/code&gt; The ? is your operator.&lt;br&gt;&#xA;So lets do an example.\&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Top Five FrontEnd VSCode Plugins</title>
+      <link>https://blog.timapple.com/posts/my-top-five-frontend-vscode-plugins/</link>
+      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/my-top-five-frontend-vscode-plugins/</guid>
+      <description>&lt;p&gt;I have been using Microsofts &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visusal Studio&#xA;Code&lt;/a&gt; everyday for the past few months.&#xA;I have installed it multiple times on Linux and Windows. There are five&#xA;plugins I always install immediately. I thought I would share them here.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl&#34;&gt;&lt;strong&gt;Remote-WSL&lt;/strong&gt;&lt;/a&gt; -&#xA;extension lets you use the Windows Subsystem for Linux (WSL) as your&#xA;full-time development environment right from VS Code. If you&#xA;haven&amp;rsquo;t set up the subsystem, &lt;a href=&#34;https://dev.to/vetswhocode/setting-up-a-linux-javascript-dev-environment-on-windows-2n74&#34;&gt;here are some&#xA;instructions.&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=loiane.frontend-extension-pack&#34;&gt;&lt;strong&gt;Front-end extension&#xA;pack&lt;/strong&gt;&lt;/a&gt; -&#xA;This is actually a cluster of stuff in one bundle makes life much&#xA;easier than searching each one out.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Preview Live Server&lt;/li&gt;&#xA;&lt;li&gt;Browser Preview&lt;/li&gt;&#xA;&lt;li&gt;IntelliSense for CSS class names in HTML&lt;/li&gt;&#xA;&lt;li&gt;HTML CSS Support&lt;/li&gt;&#xA;&lt;li&gt;Auto Rename Tag&lt;/li&gt;&#xA;&lt;li&gt;Auto Close Tag&lt;/li&gt;&#xA;&lt;li&gt;npm Intellisense&lt;/li&gt;&#xA;&lt;li&gt;Path Intellisense&lt;/li&gt;&#xA;&lt;li&gt;JavaScript (ES6) code snippets&lt;/li&gt;&#xA;&lt;li&gt;Turbo Console Log&lt;/li&gt;&#xA;&lt;li&gt;stylelint&lt;/li&gt;&#xA;&lt;li&gt;ESLint&lt;/li&gt;&#xA;&lt;li&gt;Prettier - JavaScript formatter&lt;/li&gt;&#xA;&lt;li&gt;Beautify&lt;/li&gt;&#xA;&lt;li&gt;EditorConfig for VS Code&lt;/li&gt;&#xA;&lt;li&gt;Import Cost&lt;/li&gt;&#xA;&lt;li&gt;Code Spell Checker&lt;/li&gt;&#xA;&lt;li&gt;Debugger for Chrome&lt;/li&gt;&#xA;&lt;li&gt;TypeScript Extension Package&lt;/li&gt;&#xA;&lt;li&gt;Bracket Pair Colorizer&lt;/li&gt;&#xA;&lt;li&gt;Git History (git log)&lt;/li&gt;&#xA;&lt;li&gt;snippet-creator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack&#34;&gt;&lt;strong&gt;Live Share Extension&#xA;Pack&lt;/strong&gt;&lt;/a&gt; -&#xA;This extension pack includes everything you need to start&#xA;collaboratively editing and debugging in real time.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Live Share&lt;/li&gt;&#xA;&lt;li&gt;Live Share Audio&lt;/li&gt;&#xA;&lt;li&gt;Live Share Chat&lt;/li&gt;&#xA;&lt;li&gt;Peacock&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens&#34;&gt;&lt;strong&gt;Gitlens&lt;/strong&gt;&lt;/a&gt; -&#xA;Supercharges the Git capabilities built into Visual Studio Code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=dzhavat.css-flexbox-cheatsheet&#34;&gt;&lt;strong&gt;CSS Flexbox&#xA;Cheatsheet&lt;/strong&gt;&lt;/a&gt; -&#xA;VS Code extension that lets you open a flexbox cheatsheet directly&#xA;in the editor.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t found a need to install anything else besides these and maybe&#xA;I have tried a few themes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting up a Linux Javascript Dev Environment on Windows</title>
+      <link>https://blog.timapple.com/posts/setting-up-a-linux-javascript-dev-environment-on-windows/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/setting-up-a-linux-javascript-dev-environment-on-windows/</guid>
+      <description>&lt;p&gt;This article has been made obsolete by some updates to WSL and Windows.&#xA;The newer version is at&#xA;&lt;a href=&#34;https://dev.to/vetswhocode/windows-js-dev-in-wsl-redux-33d5&#34;&gt;https://dev.to/vetswhocode/windows-js-dev-in-wsl-redux-33d5&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;By default I am usually a Linux user. But recently I have started a&#xA;cohort with &lt;a href=&#34;https://vetswhocode.io&#34;&gt;Vets Who&#xA;Code&lt;/a&gt;{rel=&amp;ldquo;noopener noreferrer&amp;rdquo; target=&amp;quot;_blank&amp;quot;}&#xA;and we have some Windows users in there. Windows does a lot of things&#xA;well; setting up development environments isn&amp;rsquo;t always one of them. So&#xA;I thought I would install Windows and see how close I can get to making&#xA;it Linuxy and a little easier to manage for the average JavaScript dev.&#xA;These are the steps I took; a lot of it came from this&#xA;&lt;a href=&#34;https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/&#34;&gt;post&lt;/a&gt;{rel=&amp;ldquo;noopener noreferrer&amp;rdquo;&#xA;target=&amp;quot;_blank&amp;quot;} from &lt;a href=&#34;https://twitter.com/burkeholland&#34;&gt;Burke&#xA;Holland&lt;/a&gt;{rel=&amp;ldquo;noopener noreferrer&amp;rdquo;&#xA;target=&amp;quot;_blank&amp;quot;}. And then some comes from me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thinking about coding</title>
+      <link>https://blog.timapple.com/posts/thinking-about-coding/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.timapple.com/posts/thinking-about-coding/</guid>
+      <description>&lt;p&gt;So I have been thinking a lot, well actually planning on changing&#xA;careers. My current job, though my employer is outstanding, provides me&#xA;with feeling of, well, just blah.&lt;/p&gt;&#xA;&lt;p&gt;I really would love to move towards programming or engineering. Maybe&#xA;even a hybrid. I&amp;rsquo;ve bought myself a year of Codecademy and also have a&#xA;subscription at Linux Academy which is at a pretty good discount due to&#xA;my veteran status. I hope both of these will provide me with what I need&#xA;to get started.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
